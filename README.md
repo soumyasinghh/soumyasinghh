@@ -6,7 +6,11 @@
 - Avid lover of books and movies.
 
 Programming Languages: Python/Java | RDBMS: MySQL
+
 Libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras and Tensorflow
+
 Simulation Tools: Jupyter Notebook, MySQL Workbench
+
 Statistical Methods: Exploratory Data Analysis, Time Series Forecasting
+
 Machine Learning: Regression, Classification, Data Transformation and Manipulation
