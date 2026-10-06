@@ -5,7 +5,7 @@ A Data Science student interested in Machine Learning, Explainable AI, Cloud Com
 - Currently learning: Generative AI and Cloud Computing
 - Looking to collaborate on: Data Science, Cloud, and Python projects
 
-SKILLS & TECHNOLOGIES -
+Skills & Technologies -
 
 Programming Languages: Python/Java | RDBMS: MySQL
 
