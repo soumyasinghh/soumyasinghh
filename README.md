@@ -1,16 +1,28 @@
-## I am Soumya, pursuing Masters in Data Sc 27'.
+## I am Soumya
+A Data Science student interested in Machine Learning, Explainable AI, Cloud Computing, and Generative AI.
 
-- I’m currently working on BullPricePrediction and various others small projects
-- I’m currently learning GenAI, Cloud skills, and Machine Learning Algos
-- I’m looking forward to collaborate on projects related to Data, Cloud and Python.
-- Avid lover of books and movies.
+- Currently working on: XAI and small ML projects
+- Currently learning: Generative AI and Cloud Computing
+- Looking to collaborate on: Data Science, Cloud, and Python projects
 
+SKILLS & TECHNOLOGIES -
 Programming Languages: Python/Java | RDBMS: MySQL
 
-Libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras and Tensorflow
+Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, SHAP / LIME
 
-Simulation Tools: Jupyter Notebook, MySQL Workbench
+Development / Simulation Tools: Google Colab, Jupyter Notebook, MySQL Workbench
 
-Statistical Methods: Exploratory Data Analysis, Time Series Forecasting
+Machine Learning: Classification, Regression, Data Preprocessing, Feature Engineering, Data Transformation, Federated Learning, Differential Privacy, Concept Drift Detection, Explainable AI (XAI)
 
-Machine Learning: Regression, Classification, Data Transformation and Manipulation
+Deep Learning: Temporal Convolutional Networks (TCN), Neural Networks, Time-Series Classification
+
+Data Analysis & Statistics: Exploratory Data Analysis (EDA), Statistical Analysis, Time-Series Data Analysis
+
+Computer Vision: YOLO, Object Detection, Object Tracking, OpenCV
+
+Areas I'm Interested In -
+- Data Science & Machine Learning
+- Explainable AI
+- Federated Learning & Privacy-Preserving ML
+- Cloud Computing
+- Generative AI
